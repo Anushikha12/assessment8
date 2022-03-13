@@ -1,0 +1,43 @@
+body {
+    background-color: yellow;
+    margin:0px;
+}
+.center {
+    width:300px;
+    height:700px;
+    margin:auto;
+    
+}
+.item {
+    height:120px;
+    width:120px;
+    background-color: green;
+    margin:20px;
+    transition-property: all;
+    transition-duration: 4s;
+
+}
+.item1:hover{
+    width:360px;}
+.item2:hover {
+    height:300px;
+    width:300px;
+}
+.item3:hover {
+    width:360px;
+}
+.item4:hover {
+    width:360px;
+}
+.item5:hover {
+    width:360px;
+}
+.item6:hover {
+    width:360px;
+}
+.item7:hover {
+    width:360px;
+}
+a {
+    font-size:25px;
+}
